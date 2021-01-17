@@ -1,8 +1,10 @@
 using System;
 
-namespace HL.StarterPacks {
-    public class Project {
+namespace HL.StarterPacks
+{
+    public class Project
+    {
         public var Projectname = "New HL Project";
-        public var else;
+        public double version = 0.01; 
     }
 }
