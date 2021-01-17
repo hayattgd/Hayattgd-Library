@@ -3,6 +3,7 @@ Made by me Library!! use for free!!
 
 i can write a C# and Java and JavaScript Library.
 
+Help or others: https://hayattgd.github.io/Hayattgd-Library/Web/
 Q&A:
 ---
 Q i can use a library for market?
